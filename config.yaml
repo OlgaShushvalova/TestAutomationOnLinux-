@@ -1,0 +1,7 @@
+folder_in: /home/olga/tst
+folder_out: /home/olga/out
+folder_ext: /home/olga/folder1
+folder_ext3: /home/olga/folder3
+count: 5
+bs: 10K
+folder_bad: /home/olga/folder2
